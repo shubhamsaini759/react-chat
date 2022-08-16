@@ -1,0 +1,17 @@
+.left-search{
+    
+    background-color: #202c33;
+    border-radius: 8px;
+    width: 85%;
+    height: 2rem;
+
+    display: flex;
+}
+.left-search-icon{
+    width: 3rem;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

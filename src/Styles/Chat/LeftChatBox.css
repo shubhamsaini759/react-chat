@@ -1,0 +1,128 @@
+.chat-left-search{
+    width: 100%;
+    height: 3rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-bottom: 1px solid #202c33 ;
+}
+.chat-left-archive{
+    height: 3rem;
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+}
+.chat-left-archive-icon{
+    width: 6rem;
+}
+
+.chat-left-archive-text {
+    width: 100%;
+    height: 3rem;
+    padding-left: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+
+    border-bottom: 1px solid #202c33;
+
+}
+#archived {
+    font-size: 1.1rem;
+}
+#archiverNum{
+    color: #a5e5ff;
+    padding-right: 12px;
+}
+
+.chat-left-user-info{
+
+    height: 5rem;
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.chat-left-user-profile{
+     height: 3.5rem;
+     width: 3.5rem;
+
+     margin-left: 8px;
+     border-radius: 50%;
+    overflow: hidden;
+
+}
+.chat-left-user-profile img{
+    height: 3.5rem;
+    width: 3.5rem;
+
+    object-fit: cover;
+}
+.chat-left-user-detail{
+    height: 5rem;
+    width: 80%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom:  1px solid #202c33;
+}
+
+
+.searchlistdetail{
+    
+    background-color: #101316;
+    /* height: 30rem; */
+    width: 22rem;
+    margin: 0 auto;
+
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+
+    overflow-y: scroll;
+}
+
+::-webkit-scrollbar{
+    overflow : hidden;
+}
+
+.searchlistdetail-user-info{
+
+    height: 5rem;
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.searchlistdetail-user-profile{
+     height: 3.5rem;
+     width: 3.5rem;
+
+     margin-left: 8px;
+     border-radius: 50%;
+    overflow: hidden;
+
+}
+.searchlistdetail-user-profile img{
+    height: 3.5rem;
+    width: 3.5rem;
+
+    object-fit: cover;
+}
+.searchlistdetail-user-detail{
+    height: 5rem;
+    width: 80%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom:  1px solid #203e50;
+}

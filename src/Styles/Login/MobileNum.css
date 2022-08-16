@@ -1,0 +1,36 @@
+.login-mid{
+    text-align: center;
+}
+.login-mid .login-detail{
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    padding-top: 2rem;
+    padding-left: 2rem;
+    font-size: larger;
+    color: #5d6c75;
+}
+.login-mid h5{
+    font-size: 18px;
+    padding-top: 8rem;
+    color: #5d6c75;
+}
+.verify-text{
+    font-size: 14px;
+    padding-top: 1rem;
+    width: 20rem;
+    color: #5d6c75;
+}
+.login-mobile{
+    padding-top: 1rem;
+}
+.login-help{
+    padding-top: 2rem;
+    padding-left: 1rem;
+    width: 100%;
+}
+.login-help p{
+    color: #008069;
+    text-align: left;
+}

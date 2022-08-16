@@ -1,0 +1,38 @@
+
+.after-login-box-img {
+    width: 15rem;
+}   
+.after-login-box-img img{
+    width: 15rem;
+
+}
+.after-login-box-text{
+    color: #a5e5ff;
+    width: 40rem;
+    height: 10rem;
+    border-bottom: 1px solid #5d6c75;
+
+
+}
+#after-login-box-text-heading{
+    padding-top: 2rem;
+    font-size: 2rem;
+}
+#after-login-box-text-lines{
+    padding-top: 1rem;
+    color: #a5e5ff;
+
+}
+.after-login-box-calls{
+    padding-top: 1rem;
+    color: #a5e5ff;
+
+}
+.after-login-encryption-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.after-login-copyrights{
+    padding-top: 5rem;
+}
